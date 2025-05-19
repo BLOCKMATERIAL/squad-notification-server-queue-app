@@ -1,0 +1,48 @@
+vy Python Windows app to monit x Gittlub - TomSchimancky/Cus: Thankyou or downloading Py @ Download Python |Python.org x 3, Documentation for Visual Stud) X > ouepenp -Tlepesom na avr? X —@ VsoGpawenne crexcrom XG squad logo-Google Search X python-it8n »PyPl x BLOCKMATERIAL (Myroslav He X + - @ x
+€ 8S chatgpticomre:S82s30d-b248-2006-a209-93cec836136e aoa SB2m%e+ eo fem) Oo Siw:
+x over
+ES  @ squad-notitication-server-queue-app ~ _Version control ~ Currentfiey G & O : @2n4ae nel - 0
+Project ~ ® main.py en.son Lk json = requremenis.:xt 2 con‘ig.py © language.py vio &
+@ Squad Queue Monitor = ia} x
+\ © squad-notification-server-queue-a > & > * i a
+Moniropuir HanaunyeaHi Bignarogxenta Mpo nporpamy 2 ' sl 4 PP @ © cow y vi x &
+veny
+Ochoshi Hanauryeanna cefowelU: airy g
+5 aan \ Dassets
+lnrepean nepesipeu (cex): 5 f roge-pna
+Ua6inot vepru (regex) Position\s"Qdel\stAstOde) a ‘ Odebug
+puenaarexcry vepri: Position: 1/1 Y Ctranslations 7 -
+Mpuxnaa i osition f o os makedirs( yoseleice =e]
+Deploy, Respawn, Sqaed, Mein M # endson o8.nakedirs( Bly =e)
+Inaukaropu exoays rpy: ena, Leave qaeae {uk json os nakedirs( sues, =)
+® contig.py
+@ language.py
+26eperu vanaunyearia ( Teese on onaeann ] @ main py hoot = tk.TkU
+® notification.py = SquadquevetonitorUI (root)
+& ocr_processor.py
+= requirements.txt
+® screen_capture.py root.nainLoop()
+IC test_capture.png
+IT test_processed.png
+_ if mane == allt
+= testtext.txt bet
+5 vt
+Bulpy naint)
+> th External Libraries excest Ecnith ane:
+=" Scratches and Consoles, Ste estes gecectss deh)
+ES sys.exit(.)
+Run main
+— ¢ :
+C:\Users\niros\PycharnProjects\squad-notification-server-queve-app\.venv\Scripts\python.exe C:\Users\niros\PycharnProjects\squad-notification-server-queve-a
+by BI Ol 4 [2025-05-18 23:12:45] Progran started. Ready to nonitor Squad queve.
+3
+ay
+2
+Ca
+B
+®
+i)
+4 Ontite, wo BH xoueTe gomaTH, BMAANHTH Hi BaMinHTH p
+equad rowicasior server queLe app > @ rair.py Fal CHE LIF Be spaces Pythor 373 ssquad rewiador server qLeLe appr
+- zn Pn A R 2aaz
+| gv VBO: tens CPD) seos20e5
