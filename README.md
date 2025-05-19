@@ -2,7 +2,7 @@
 
 Squad Queue Monitor is a desktop application that automatically monitors your position in the Squad game queue and notifies you when you enter the server. The application uses screen capture and OCR (Optical Character Recognition) technology to detect your queue status without interacting with the game process.
 
-![Squad Queue Monitor Screenshot](assets/screenshot.png)
+![Squad Queue Monitor Screenshot](/assets/logo.png)
 
 ## Features
 
@@ -81,7 +81,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Монітор черги Squad - це настільний додаток, який автоматично відстежує вашу позицію в черзі гри Squad і сповіщає вас, коли ви входите на сервер. Додаток використовує технологію захоплення екрану та OCR (оптичне розпізнавання символів) для виявлення статусу вашої черги без взаємодії з процесом гри.
 
-![Скріншот Монітора черги Squad](assets/screenshot.png)
+![Скріншот Монітора черги Squad](assets/logo.png)
 
 ## Функції
 
