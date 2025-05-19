@@ -24,14 +24,15 @@ jobs:
         pip install -r requirements.txt
         pip install pyinstaller
 
-
     - name: Build executable
       run: |
         pyinstaller --onefile --windowed --name="Squad_Queue_Monitor" --icon=assets/icon.ico --add-data "assets;assets" ui.py
-        - name: Create ZIP archive
-          run: |
-            cd dist
-            powershell Compress-Archive -Path Squad_Queue_Monitor.exe -DestinationPath Squad_Queue_Monitor.zip
+
+    - name: Create ZIP archive
+      shell: pwsh
+      run: |
+        cd dist
+        Compress-Archive -Path Squad_Queue_Monitor.exe -DestinationPath Squad_Queue_Monitor.zip
 
     - name: Create Release
       id: create_release
